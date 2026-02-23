@@ -1,0 +1,3 @@
+[submodule "02-my-dashboard"]
+	path = 02-my-dashboard
+	url = https://github.com/santiago-reyes-buitrago/next-SSR-CSR-estudio.git
